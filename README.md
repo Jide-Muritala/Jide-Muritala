@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi, I'm Jide</h2>
+<h2 align="center">Hi 👋, I'm Jide</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jide-muritala&label=Profile%20views&color=0e75b6&style=flat" alt="jide-muritala" /> </p>
 <p align="left">
 </p>
