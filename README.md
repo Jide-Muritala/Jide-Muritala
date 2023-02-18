@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi 👋, I'm Jide</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jide-muritala&label=Profile%20views&color=0e75b6&style=flat" alt="jide-muritala" /> </p>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,5 +34,8 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jide-muritala&label=Profile%20views&color=0e75b6&style=flat" alt="jide-muritala" /> </p>
+<p align="left">
+</p>
