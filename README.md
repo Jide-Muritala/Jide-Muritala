@@ -68,9 +68,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<div align="center" dir="auto"  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages)
-</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jide-muritala&label=Profile%20views&color=0e75b6&style=flat" alt="jide-muritala" /> </p>
 <p align="center">
