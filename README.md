@@ -67,8 +67,7 @@ Here are some ideas to get you started:
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>        
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jide-muritala&label=Profile%20views&color=0e75b6&style=flat" alt="jide-muritala" /> </p>
 <p align="center">
