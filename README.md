@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p class="inline-block">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
   
