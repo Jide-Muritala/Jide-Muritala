@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 </p>
   
 <p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/bash?color=ffffffff&size=128" alt="bash" width="40" height="40"/> </a>
+&nbsp;
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> 
 &nbsp; 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
 &nbsp; 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?color=fdfcfcff&size=128" alt="github" width="40" height="40"/> </a>
  </p>
 
 <h4 align="left">Data Science</h4>
