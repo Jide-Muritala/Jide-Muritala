@@ -84,7 +84,6 @@ Here are some ideas to get you started:
 ## 📈 &nbsp; Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jide-muritala&&theme=transparent&show_icons=true&locale=en" alt="jide-muritala" /></p>
 <br>
-<br>
 <p align="left">
 <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages" /></a>
 </p>
