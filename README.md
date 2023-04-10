@@ -101,9 +101,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages" />
-<br>
 <br>
 <br>
 <br>
