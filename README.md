@@ -91,8 +91,9 @@ Here are some ideas to get you started:
 &nbsp;
 ## 📈 &nbsp; Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jide-muritala&&theme=transparent&show_icons=true&locale=en" alt="jide-muritala" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages" />
+<br>
+<br>
 <br>
 <br>
 <br>
