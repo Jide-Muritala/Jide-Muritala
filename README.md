@@ -84,6 +84,14 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 
+## 💼 &nbsp; Portfolio
+- [MeetingSpace](https://github.com/margeol90/meeting_space): [Demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
+- [AirNBN - an AirBNB clone](https://github.com/margeol90/AirNBN_Clone_MS)
+
+
+&nbsp;
+&nbsp;
+
 ## 📝 &nbsp; Blog posts
 - [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
 
