@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&nbsp;
+<a href="https://www.gitpod.io/"><img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" width="40" height="40" alt="gitpod badge"/></a>
+&nbsp; 
+<a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/mapbox.svg?size=128&color=ffffff&colored=false" alt="mapbox" width="40" height="40"/> </a>
 -->
 # Hi, I'm Jide <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
@@ -59,16 +64,12 @@ Here are some ideas to get you started:
 <a href="https://stimulus.hotwired.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus" width="35" height="35"/> </a>
 &nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://www.gitpod.io/"><img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" width="40" height="40" alt="gitpod badge"/></a>
 &nbsp; 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?color=fdfcfcff&size=128" alt="github" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
 &nbsp; 
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
-&nbsp; 
-<a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/mapbox.svg?size=128&color=ffffff&colored=false" alt="mapbox" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Data Science</h4>
