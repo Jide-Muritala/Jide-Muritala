@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
   
 <p align="left">
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/sass.svg?size=128&color=eb0505&colored=false" alt="sass" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/bash?color=ffffffff&size=128" alt="bash" width="40" height="40"/> </a>
 &nbsp;
