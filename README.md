@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## 📝 &nbsp; Blog posts
+- [Say Goodbye to Wrist Pain: Why Developers Need a Vertical Mouse](https://medium.com/p/6a434fc779d0)
 - [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
 
 &nbsp;
