@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 ## 💼 &nbsp; Portfolio
 - [MeetingSpace](https://github.com/margeol90/meeting_space): [Demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
 - [AirNBN - an AirBNB clone](https://github.com/margeol90/AirNBN_Clone_MS)
+- [Instagram clone using only Bootstrap](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/) [(repository)](https://github.com/4GeeksAcademy/jidemuritala-instagram-feed-with-bootstrap)
 
 
 &nbsp;
