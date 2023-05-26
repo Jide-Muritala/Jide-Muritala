@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 🛠 &nbsp; Languages and Tools
-<h4 align="left">Web Development</h4>
+<h4 align="left">🕸 &nbsp;&nbsp; Web Development</h4>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 &nbsp;
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Data Science</h4>
+<h4 align="left">📊 &nbsp;&nbsp; Data Science</h4>
 <p align="left">
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
 &nbsp;
