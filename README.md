@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <a href="https://www.gitpod.io/"><img src="https://icongr.am/simple/gitpod.svg?size=50&color=ff9500&colored=false" width="40" height="40" alt="gitpod badge"/></a>
 &nbsp; 
 <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/mapbox.svg?size=128&color=ffffff&colored=false" alt="mapbox" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
 -->
 # <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=23px height=23px> &nbsp; Hi, I'm Jide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 
@@ -84,9 +86,7 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 &nbsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>  
-&nbsp;
-<a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>  
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>   
 </p>
 
 <br>
@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 ## 💼 &nbsp; Portfolio
 - [MeetingSpace](https://github.com/margeol90/meeting_space): [Demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
 - [AirNBN - an AirBNB clone](https://github.com/margeol90/AirNBN_Clone_MS)
-- [Instagram clone using only Bootstrap](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/) [(repository)](https://github.com/4GeeksAcademy/jidemuritala-instagram-feed-with-bootstrap)
-- [Random Card Generator](https://4geeksacademy.github.io/jide-randomcardgenerator/) [(repository)](https://github.com/4GeeksAcademy/jide-randomcardgenerator)
-- [Excuse Generator](https://4geeksacademy.github.io/jide-excuse-generator/) [(repository)](https://github.com/4GeeksAcademy/jide-excuse-generator)
+- [Instagram clone using only Bootstrap](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
+- [Random Card Generator](https://4geeksacademy.github.io/jide-randomcardgenerator/)
+- [Excuse Generator](https://4geeksacademy.github.io/jide-excuse-generator/)
 
 
 &nbsp;
