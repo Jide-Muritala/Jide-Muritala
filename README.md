@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/mapbox.svg?size=128&color=ffffff&colored=false" alt="mapbox" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a> 
+&nbsp; 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?color=fdfcfcff&size=128" alt="github" width="40" height="40"/> </a>
 -->
 # <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=23px height=23px> &nbsp; Hi, I'm Jide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 
@@ -40,6 +42,8 @@ Here are some ideas to get you started:
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+&nbsp;
+<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/flask.svg?size=128&color=ffffff&colored=false" alt="flask" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 &nbsp;
@@ -66,12 +70,14 @@ Here are some ideas to get you started:
 <a href="https://stimulus.hotwired.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus" width="35" height="35"/> </a>
 &nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> </a>
-&nbsp; 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?color=fdfcfcff&size=128" alt="github" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
 &nbsp; 
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
+<a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/sqlalchemy?color=ff0000ff&size=128" alt="sqlalchemy" width="40" height="40"/> </a>
+&nbsp; 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
+ &nbsp; 
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/postman.svg?size=128&color=ef7e4d&colored=false" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">📊 &nbsp;&nbsp; Data Science</h4>
