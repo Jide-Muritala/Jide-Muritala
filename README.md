@@ -102,9 +102,10 @@ Here are some ideas to get you started:
 ## 💼 &nbsp; Portfolio
 - [MeetingSpace](https://github.com/margeol90/meeting_space): [Demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
 - [AirNBN - an AirBNB clone](https://github.com/margeol90/AirNBN_Clone_MS)
+- [Simple counter with React](https://jide-simple-counter-with-react.vercel.app/)
+- [Random Card Generator with JavaScript](https://4geeksacademy.github.io/jide-randomcardgenerator/)
+- [Excuse Generator with JavaScript](https://4geeksacademy.github.io/jide-excuse-generator/)
 - [Instagram clone using only Bootstrap](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
-- [Random Card Generator](https://4geeksacademy.github.io/jide-randomcardgenerator/)
-- [Excuse Generator](https://4geeksacademy.github.io/jide-excuse-generator/)
 
 
 &nbsp;
