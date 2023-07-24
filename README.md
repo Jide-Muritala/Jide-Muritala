@@ -100,12 +100,13 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## 💼 &nbsp; Portfolio
-- [MeetingSpace](https://github.com/margeol90/meeting_space): [Demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
-- [AirNBN - an AirBNB clone](https://github.com/margeol90/AirNBN_Clone_MS)
-- [Simple counter with React](https://jide-simple-counter-with-react.vercel.app/)
-- [Random Card Generator with JavaScript](https://4geeksacademy.github.io/jide-randomcardgenerator/)
-- [Excuse Generator with JavaScript](https://4geeksacademy.github.io/jide-excuse-generator/)
-- [Instagram clone using only Bootstrap](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
+- [MeetingSpace (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> app)](https://github.com/margeol90/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
+- [AirNBN - an AirBNB clone (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> app)](https://github.com/margeol90/AirNBN_Clone_MS)
+- [Simple counter with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-simple-counter-with-react.vercel.app/)
+- [Traffic light with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-traffic-light-react.vercel.app/)
+- [Random card generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-randomcardgenerator/)
+- [Excuse generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-excuse-generator/)
+- [Instagram clone using only <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" alt="bootstrap" width="20" height="20"/>](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
 
 
 &nbsp;
