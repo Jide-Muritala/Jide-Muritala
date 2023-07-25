@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 &nbsp; 
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
  &nbsp; 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/simple/postman.svg?size=128&color=ef7e4d&colored=false" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
 &nbsp; 
