@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 ## 📈 &nbsp; Stats
-<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api?username=jide-muritala&&theme=transparent&show_icons=true&locale=en" alt="jide-muritala" />
+<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api?username=jide-muritala&theme=transparent&show_icons=true&locale=en&hide_border=true&text_color=F9F6EE&card_width=600px" alt="jide-muritala" />
 <br>
 <br>
 <br>
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages" />
+<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=10&theme=transparent&custom_title=Top%20Languages&hide_border=true&card_width=600&size_weight=0.5&count_weight=0.5&text_color=F9F6EE&hide=shell" />
 <br>
 <br>
 <br>
