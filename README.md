@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> </a>
 &nbsp; 
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a>
- &nbsp; 
+&nbsp; 
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## 💼 &nbsp; Portfolio
-- [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/margeol90/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
+- [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
 - [myDoctor  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://icongr.am/simple/flask.svg?size=40&color=ffffff&colored=false" alt="flask" width="20" height="20"/>](https://github.com/Jide-Muritala/europe-fs-pt11-group4): [4Geeks demo-day presentation](https://www.youtube.com/embed/96A5468YY5Y?start=2152&end=3049)
 - [AirNBN - an AirBNB clone <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/margeol90/AirNBN_Clone_MS)
 - [Portfolio website <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="20" height="20"/>](https://jidemuritala.vercel.app)
