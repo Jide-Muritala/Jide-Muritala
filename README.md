@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> 
 &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
 &nbsp; 
 <a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> </a>
 &nbsp;
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 - [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
 - [myDoctor  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://icongr.am/simple/flask.svg?size=40&color=ffffff&colored=false" alt="flask" width="20" height="20"/>](https://github.com/Jide-Muritala/europe-fs-pt11-group4): [4Geeks demo-day presentation](https://www.youtube.com/embed/96A5468YY5Y?start=2152&end=3049)
 - [AirNBN - an AirBNB clone <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/AirNBN_Clone_MS)
-- [Portfolio website <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="20" height="20"/>](https://jidemuritala.vercel.app)
+- [Portfolio website <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="20" height="20"/>](https://jidemuritala.vercel.app)
 - [Simple counter with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-simple-counter-with-react.vercel.app/)
 - [Traffic light with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-traffic-light-react.vercel.app/)
 - [Random card generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-randomcardgenerator/)
@@ -119,8 +119,8 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## 📝 &nbsp; Blog posts
-- [Say Goodbye to Wrist Pain: Why Developers Need a Vertical Mouse](https://medium.com/p/6a434fc779d0)
 - [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
+- [Say Goodbye to Wrist Pain: Why Developers Need a Vertical Mouse](https://medium.com/p/6a434fc779d0)
 
 &nbsp;
 &nbsp;
