@@ -125,6 +125,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## 📝 &nbsp; Blog posts
+- [A beginner’s guide to Django for the Rails developer](https://medium.com/@jidemuritala/a-beginners-guide-to-django-for-the-rails-developer-66ba309a04d1)
 - [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
 
 
