@@ -33,6 +33,30 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+
+
+## 💼 &nbsp; Portfolio
+- [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
+- [myDoctor  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://icongr.am/simple/flask.svg?size=40&color=ffffff&colored=false" alt="flask" width="20" height="20"/>](https://github.com/Jide-Muritala/europe-fs-pt11-group4): [4Geeks demo-day presentation](https://www.youtube.com/embed/96A5468YY5Y?start=2152&end=3049)
+- [AirNBN - an AirBNB clone <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/AirNBN_Clone_MS)
+- [Portfolio website <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="20" height="20"/>](https://jidemuritala.vercel.app)
+- [Simple counter with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-simple-counter-with-react.vercel.app/)
+- [Traffic light with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-traffic-light-react.vercel.app/)
+- [Random card generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-randomcardgenerator/)
+- [Excuse generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-excuse-generator/)
+- [Instagram clone using only <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" alt="bootstrap" width="20" height="20"/>](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
+
+
+&nbsp;
+&nbsp;
+
+## 📝 &nbsp; Blog posts
+- [A beginner’s guide to Django for the Rails developer](https://medium.com/@jidemuritala/a-beginners-guide-to-django-for-the-rails-developer-66ba309a04d1)
+- [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
+
+
+&nbsp;
+&nbsp;
 -->
 # <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width=23px height=23px> &nbsp; Hi, I'm Jide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>
 
@@ -108,7 +132,9 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>   
 &nbsp;
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="r" width="40" height="40"/> </a>   
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> 
+&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />  
 &nbsp;
 <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-plain.svg" alt="puppeteer" width="40" height="40"/> </a>  
 </p>
@@ -117,28 +143,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 
-## 💼 &nbsp; Portfolio
-- [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
-- [myDoctor  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://icongr.am/simple/flask.svg?size=40&color=ffffff&colored=false" alt="flask" width="20" height="20"/>](https://github.com/Jide-Muritala/europe-fs-pt11-group4): [4Geeks demo-day presentation](https://www.youtube.com/embed/96A5468YY5Y?start=2152&end=3049)
-- [AirNBN - an AirBNB clone <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/AirNBN_Clone_MS)
-- [Portfolio website <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="20" height="20"/>](https://jidemuritala.vercel.app)
-- [Simple counter with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-simple-counter-with-react.vercel.app/)
-- [Traffic light with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20"/>](https://jide-traffic-light-react.vercel.app/)
-- [Random card generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-randomcardgenerator/)
-- [Excuse generator with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>](https://4geeksacademy.github.io/jide-excuse-generator/)
-- [Instagram clone using only <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=6d06b1" alt="bootstrap" width="20" height="20"/>](https://4geeksacademy.github.io/jidemuritala-instagram-feed-with-bootstrap/)
 
-
-&nbsp;
-&nbsp;
-
-## 📝 &nbsp; Blog posts
-- [A beginner’s guide to Django for the Rails developer](https://medium.com/@jidemuritala/a-beginners-guide-to-django-for-the-rails-developer-66ba309a04d1)
-- [How to make an auto-scroll Splide carousel in a Rails app](https://medium.com/@jidemuritala/how-to-make-an-auto-scroll-splide-carousel-in-a-rails-app-23448a42433d)
-
-
-&nbsp;
-&nbsp;
 ## 📈 &nbsp; Stats
 <img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api?username=jide-muritala&theme=transparent&show_icons=true&locale=en&hide_border=true&text_color=F9F6EE&card_width=600px" alt="jide-muritala" />
 <br>
