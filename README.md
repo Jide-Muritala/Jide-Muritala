@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
-
+&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/bash?color=ffffffff&size=128" alt="bash" width="40" height="40"/> </a>
+&nbsp;
 
 ## 💼 &nbsp; Portfolio
 - [MeetingSpace <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/>](https://github.com/Jide-Muritala/meeting_space): [Le Wagon demo-day presentation](https://www.youtube.com/watch?v=W7xVpitKp5Y)
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 &nbsp;
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40"/> </a>
 &nbsp; 
@@ -97,7 +99,7 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/bash?color=ffffffff&size=128" alt="bash" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
 &nbsp;
