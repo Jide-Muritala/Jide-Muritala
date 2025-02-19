@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=20&theme=transparent&custom_title=Top%20Languages&hide_border=true&card_width=600&size_weight=0.5&count_weight=0.5&text_color=F9F6EE&hide=shell,procfile,powershell,c,cmake&count-private=true" />
+<img align="left" src="https://github-readme-stats-jide-muritala.vercel.app/api/top-langs/?username=Jide-Muritala&layout=compact&langs_count=20&theme=transparent&custom_title=Top%20Languages&hide_border=true&card_width=600&size_weight=0.5&count_weight=0.5&text_color=F9F6EE&hide=shell,procfile,powershell,c,cmake,c%2B%2B,scss,swift&count-private=true" />
 <br>
 <br>
 <br>
