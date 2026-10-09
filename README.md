@@ -95,7 +95,7 @@ Here are some ideas to get you started:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/>  
       </td> 
       <td align="center" width="96"> 
-        <img src="https://icongr.am/simple/flask.svg?size=40&color=ffffff&colored=false" alt="flask" width="35" height="35"/>  
+        <img src="https://deviconapi.vercel.app/flask?color=010101ff&size=272" alt="flask" width="35" height="35"/>  
       </td> 
       <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>  
